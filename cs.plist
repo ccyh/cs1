@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xiaoyichu.cn/ipa/SuSion.ipa</string>
+                    <string>http://demo.cswing.cn/ipa/daotuba.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.csw.susion.SuSion</string>
+                <string>cn.daotuba.daotuba</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>susion</string>
+                <string>导途吧测试</string>
             </dict>
         </dict>
     </array>
